@@ -1,0 +1,15 @@
+C:\Users\017049631\source\repos\TiposDeDadosBasicos_CSharp\TiposDeDadosBasicos_CSharp\bin\Debug\net6.0\TiposDeDadosBasicos_CSharp.exe
+C:\Users\017049631\source\repos\TiposDeDadosBasicos_CSharp\TiposDeDadosBasicos_CSharp\bin\Debug\net6.0\TiposDeDadosBasicos_CSharp.deps.json
+C:\Users\017049631\source\repos\TiposDeDadosBasicos_CSharp\TiposDeDadosBasicos_CSharp\bin\Debug\net6.0\TiposDeDadosBasicos_CSharp.runtimeconfig.json
+C:\Users\017049631\source\repos\TiposDeDadosBasicos_CSharp\TiposDeDadosBasicos_CSharp\bin\Debug\net6.0\TiposDeDadosBasicos_CSharp.dll
+C:\Users\017049631\source\repos\TiposDeDadosBasicos_CSharp\TiposDeDadosBasicos_CSharp\bin\Debug\net6.0\TiposDeDadosBasicos_CSharp.pdb
+C:\Users\017049631\source\repos\TiposDeDadosBasicos_CSharp\TiposDeDadosBasicos_CSharp\obj\Debug\net6.0\TiposDeDadosBasicos_CSharp.csproj.AssemblyReference.cache
+C:\Users\017049631\source\repos\TiposDeDadosBasicos_CSharp\TiposDeDadosBasicos_CSharp\obj\Debug\net6.0\TiposDeDadosBasicos_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\017049631\source\repos\TiposDeDadosBasicos_CSharp\TiposDeDadosBasicos_CSharp\obj\Debug\net6.0\TiposDeDadosBasicos_CSharp.AssemblyInfoInputs.cache
+C:\Users\017049631\source\repos\TiposDeDadosBasicos_CSharp\TiposDeDadosBasicos_CSharp\obj\Debug\net6.0\TiposDeDadosBasicos_CSharp.AssemblyInfo.cs
+C:\Users\017049631\source\repos\TiposDeDadosBasicos_CSharp\TiposDeDadosBasicos_CSharp\obj\Debug\net6.0\TiposDeDadosBasicos_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\017049631\source\repos\TiposDeDadosBasicos_CSharp\TiposDeDadosBasicos_CSharp\obj\Debug\net6.0\TiposDeDadosBasicos_CSharp.dll
+C:\Users\017049631\source\repos\TiposDeDadosBasicos_CSharp\TiposDeDadosBasicos_CSharp\obj\Debug\net6.0\refint\TiposDeDadosBasicos_CSharp.dll
+C:\Users\017049631\source\repos\TiposDeDadosBasicos_CSharp\TiposDeDadosBasicos_CSharp\obj\Debug\net6.0\TiposDeDadosBasicos_CSharp.pdb
+C:\Users\017049631\source\repos\TiposDeDadosBasicos_CSharp\TiposDeDadosBasicos_CSharp\obj\Debug\net6.0\TiposDeDadosBasicos_CSharp.genruntimeconfig.cache
+C:\Users\017049631\source\repos\TiposDeDadosBasicos_CSharp\TiposDeDadosBasicos_CSharp\obj\Debug\net6.0\ref\TiposDeDadosBasicos_CSharp.dll
