@@ -10,6 +10,9 @@ PUT https://localhost:<port>/cadastro/{id}
 
 DELETE https://localhost:<port>/cadastro/{id}
  
+Especificação openAPI (openapi.json): https://localhost:<port>/swagger/v1/swagger.json 
+
+ 
  Exemplo de JSON
  ```
 {
