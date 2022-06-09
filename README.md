@@ -17,3 +17,7 @@ DELETE https://localhost:<port>/cadastro/{id}
     "idade": 18
 }
 ```
+
+[Tutorial: Criar uma API Web mínima com ASP.NET Core](https://docs.microsoft.com/pt-br/aspnet/core/tutorials/min-web-api?view=aspnetcore-6.0&tabs=visual-studio)
+
+ [documentação da API Web do ASP.NET Core com o Swagger/OpenAPI](https://docs.microsoft.com/pt-br/aspnet/core/tutorials/web-api-help-pages-using-swagger?view=aspnetcore-6.0)
